@@ -4,19 +4,7 @@
   <img width="460" height="300" src="Logo.png">
 </p>
 
-Welcome to another tutorial on Keras. This tutorial will be exploring how to build a Convolutional Neural Network model for Object Classification. Let's get straight into it!
-
-```
-Note: For learners who are unaware how Convolutional Neural Newtworks work, here are some excellent links on 
-the theoretical aspect:
-- https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks/
-- https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721
-- https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/
-```
-As I did in my previous tutorial I will start by talking about Keras, you can skip it and go straight to the implementatation
-if you understand what keras is. 
-
-So what exactly is Keras? Let's put it this way, it makes programming machine learning algorithms much much easier. It simply runs atop Tensorflow/Theano, cutting down on the coding and increasing efficiency. In more technical terms, Keras is a high-level neural network API written in Python. 
+Welcome to my Python project Convolutional Nural Network also know as ConvNet.
 
 ## Implementation
 ### Imports
