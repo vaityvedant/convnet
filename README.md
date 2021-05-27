@@ -1,7 +1,7 @@
 
-# Keras Convolutional Neural Network with Python
+#  Convolutional Neural Network with Python
 <p align="center">
-  <img width="460" height="300" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Keras_Logo.jpg">
+  <img width="460" height="300" src="Logo.jpg">
 </p>
 
 Welcome to another tutorial on Keras. This tutorial will be exploring how to build a Convolutional Neural Network model for Object Classification. Let's get straight into it!
